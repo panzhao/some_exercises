@@ -3,8 +3,8 @@
 
 int main()
 {
-    char *str = "hello hello hello";
-    char *dest = "ll";
+    char *str = "hello hello hell hell";
+    char *dest = "llo";
 
     printf("%d\n",count_str(str, dest));
 
